@@ -2,8 +2,8 @@
 Simple Allegro lib interface/controller inherited from Seunsgu. Depends on Mathlib and Motion_generators from RobotToolkit.
 
 ###Dependencies
-- [robot-toolkit](https://github.com/epfl-lasa/robot-toolkit) (from epfl-lasa)
-- [motion-generators](https://github.com/epfl-lasa/motion-generators) (from epfl-lasa)
+- [robot-toolkit](https://github.com/epfl-lasa/robot-toolkit) (you don't really need full robottoolkit, only the mathlib librayry)
+- [motion-generators](https://github.com/epfl-lasa/motion-generators)
 
 #### Controlling the hand:
 To run the control interface:
