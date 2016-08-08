@@ -4,6 +4,11 @@ Simple Allegro lib interface/controller inherited from Seunsgu.
 - [robot-toolkit](https://github.com/epfl-lasa/robot-toolkit) (you don't really need full robottoolkit, only the mathlib librayry)
 - [motion-generators](https://github.com/epfl-lasa/motion-generators)
 
+- peak-linux-driver-7.X
+
+    Please visit http://peak-system.com
+
+
 #### Controlling the hand:
 To run the control interface:
 ```
