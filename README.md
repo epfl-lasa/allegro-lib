@@ -1,6 +1,5 @@
 # allegro-lib
-Simple Allegro lib interface/controller inherited from Seunsgu. Depends on Mathlib and Motion_generators from RobotToolkit.
-
+Simple Allegro lib interface/controller inherited from Seunsgu. 
 ###Dependencies
 - [robot-toolkit](https://github.com/epfl-lasa/robot-toolkit) (you don't really need full robottoolkit, only the mathlib librayry)
 - [motion-generators](https://github.com/epfl-lasa/motion-generators)
