@@ -10,7 +10,7 @@ To run the control interface:
 $ rosrun allegrolib allegrolib
 ```
 
-If you just want to simply open/close to grab a tool or whatever,  run theis node and follow the instructions on the command line:
+If you just want to simply open/close the hand, run theis node and follow the instructions on the command line:
 
 ```
 $ rosrun allegrolib test_planner
